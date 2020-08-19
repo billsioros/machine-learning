@@ -1,0 +1,21 @@
+  , Model, Dataset , Score
+0 , svm  , original, 53.33333333333333
+1 , svm  , reduced , 60.0
+2 , knn  , original, 83.33333333333334
+3 , knn  , reduced , 73.33333333333334
+4 , svm  , original, 63.33333333333333
+5 , svm  , reduced , 63.33333333333333
+6 , knn  , original, 73.33333333333333
+7 , knn  , reduced , 70.0
+8 , svm  , original, 56.66666666666667
+9 , svm  , reduced , 60.0
+10, knn  , original, 63.33333333333333
+11, knn  , reduced , 66.66666666666666
+12, svm  , original, 60.0
+13, svm  , reduced , 56.66666666666667
+14, knn  , original, 70.0
+15, knn  , reduced , 70.0
+16, svm  , original, 56.666666666666664
+17, svm  , reduced , 56.666666666666664
+18, knn  , original, 70.0
+19, knn  , reduced , 70.0

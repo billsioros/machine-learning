@@ -1,0 +1,4 @@
+/.env
+/.vscode
+/knn_svm_comparison.csv.bak
+/nmf_convergence.csv.bak
